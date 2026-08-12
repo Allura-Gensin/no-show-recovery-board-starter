@@ -1,0 +1,2 @@
+appointment_ref,appointment_date,appointment_time,service_tier,estimated_value_range,provider,booking_source,current_status,policy_state,next_action,action_owner,due_at,recovery_outcome,notes
+DEMO-001,2026-01-20,10:00,standard,$75-$125,Staff A,online booking,unconfirmed,review needed,Owner decides next step,Front desk,2026-01-19 10:00,pending,Demo row only; replace before use

@@ -1,0 +1,5 @@
+policy_state,plain_language_rule,owner_approved_next_step,owner_role,notes
+unconfirmed,Define when a booking needs review,Review against the business's approved policy,Front desk,Template only; business must approve its own policy
+reschedule_requested,Define the permitted reschedule window,Offer only the options the business approves,Front desk,Template only; no message is sent by this file
+opening_available,Define when an opening can be offered,Decide whether the business's own waitlist process applies,Manager,Template only; business controls customer contact
+repeat_policy_case,Define the threshold and policy,Escalate to the person the business designates,Owner,Do not place sensitive history in this file
