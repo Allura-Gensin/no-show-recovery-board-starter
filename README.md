@@ -4,6 +4,12 @@ A small, client-owned spreadsheet framework for a non-clinical salon, hair-color
 
 This starter is deliberately a board and operating routine—not a reminder service, CRM, calendar integration, payment tool, or automated messaging product.
 
+## Preview the enhanced workbook
+
+[Review the prepared six-sheet workbook and one-location setup boundaries on the Allure Labs offer page.](https://offers.allurelabs.ai/)
+
+The enhanced workbook is not currently for sale. The offer page can prepare a tagged release-notice email, but sending it does not create an order, payment, reservation, subscription, or promise of availability. The free CSV starter in this repository remains available under the MIT license.
+
 ## Use it safely
 
 1. Copy the three CSV files into a spreadsheet or board your business controls.
@@ -26,7 +32,7 @@ The business remains responsible for its own policies, records, access controls,
 
 ## Optional setup help
 
-Allure Labs offers a fixed-scope, one-location board setup that maps an owner-approved policy ladder, provides a client-owned board structure, and hands off a daily review routine. It does not operate customer messaging or access a booking account. Details: https://allure-launch-path-audit.alluragensin.chatgpt.site/no-show-recovery
+Allure Labs offers a fixed-scope, one-location board setup that maps an owner-approved policy ladder, provides a client-owned board structure, and hands off a daily review routine. It does not operate customer messaging or access a booking account. Details: https://offers.allurelabs.ai/
 
 ## License
 
