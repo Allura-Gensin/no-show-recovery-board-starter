@@ -6,7 +6,8 @@ This starter is deliberately a board and operating routine—not a reminder serv
 
 ## Choose your next step
 
-- **Use the free starter now:** copy or download the three CSV files in this repository under the MIT license.
+- **Download the free starter:** [get the complete v0.2.0 ZIP](https://github.com/Allura-Gensin/no-show-recovery-board-starter/releases/download/v0.2.0/no-show-recovery-board-starter-v0.2.0.zip), including the three CSV files, license, and Start Here routine.
+- **Use the repository files:** read [START-HERE.md](START-HERE.md), then copy the CSV files into a spreadsheet or board your business controls.
 - **Preview the enhanced workbook:** [review the prepared six-sheet workbook and its boundaries on the Allure Labs offer page](https://offers.allurelabs.ai/).
 - **Get one availability update:** [request one workbook release notice](mailto:hello@allurelabs.ai?subject=%5BNRB-WORKBOOK-INTEREST%5D%20Release%20notice&body=Source%3A%20github-no-show-starter-v1%0ABusiness%20type%20%28optional%29%3A%0ANumber%20of%20locations%20%28optional%29%3A%0AMost%20useful%20sheet%20%28optional%29%3A%20appointments%20%2F%20policy%20%2F%20waitlist%20%2F%20daily%20%2F%20weekly%0A%0APlease%20send%20me%20one%20release%20notice%20if%20the%20self-service%20workbook%20becomes%20available.%20I%20understand%20this%20is%20not%20an%20order%2C%20reservation%2C%20payment%2C%20or%20promise%20of%20availability.%0A).
 - **Ask for setup help:** [start a conversation about the $299 one-location setup](mailto:hello@allurelabs.ai?subject=No-Show%20Recovery%20Board%20setup%20inquiry&body=Source%3A%20github-no-show-starter-v1%0ABusiness%20type%3A%0ANumber%20of%20locations%3A%0AWhat%20should%20the%20team%20recover%20first%3F%0A).
@@ -23,6 +24,7 @@ The enhanced workbook is not currently for sale. A release-notice email does not
 
 ## Included files
 
+- `START-HERE.md` — a bounded setup, daily-review, and weekly-owner-review routine.
 - `appointment-exception-board.csv` — one row per appointment exception and its next owner action.
 - `policy-ladder.csv` — a small policy-to-action map that the business must adapt and approve.
 - `weekly-review.csv` — a lightweight owner review of the board process.
