@@ -1,0 +1,59 @@
+name: Request bounded setup help
+description: Start a public scope conversation for the $299 one-location No-Show Recovery Board setup.
+title: "[No-show setup request] "
+labels:
+  - setup-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Share only non-sensitive business context and an ordinary public website, if useful. Do not include customer names, appointment records, health information, credentials, private links, payment information, or other personal data.
+
+        Opening this issue requests a scope conversation only. It does not create an order, contract, reservation, payment obligation, or authorization to access or message anyone.
+  - type: dropdown
+    id: business_type
+    attributes:
+      label: Business type
+      options:
+        - Salon or hair-color studio
+        - Lash, brow, or esthetics studio
+        - Other non-clinical appointment business
+    validations:
+      required: true
+  - type: dropdown
+    id: locations
+    attributes:
+      label: Location count
+      description: The fixed $299 setup covers one location.
+      options:
+        - One location
+        - More than one location
+    validations:
+      required: true
+  - type: dropdown
+    id: first_focus
+    attributes:
+      label: First workflow to clarify
+      options:
+        - Appointment-exception board
+        - Owner-approved policy ladder
+        - Waitlist and callback view
+        - Daily and weekly review routine
+        - Not sure yet
+    validations:
+      required: true
+  - type: input
+    id: public_url
+    attributes:
+      label: Public business URL (optional)
+      description: An ordinary public website or profile only; do not share a login or private link.
+      placeholder: https://example.com/
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: Public-request boundaries
+      options:
+        - label: I understand that this public issue must not contain customer, appointment, health, credential, payment, or other private information.
+          required: true
+        - label: I understand that setup begins only after separate written scope and a lawful payment arrangement.
+          required: true
